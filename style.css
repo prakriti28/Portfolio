@@ -150,7 +150,7 @@ body {
 }
 .skills::after {
   right: -10em;
-  top: 8em;
+/*   top: 8em; */
   background: #d65a61; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
